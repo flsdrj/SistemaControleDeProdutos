@@ -1,0 +1,166 @@
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.deps.json
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.json
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.dll
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cache
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CopyComplete
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.input.cache
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.output.cache
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorCoreGenerate.cache
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_08_20200131\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.deps.json
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.json
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.dll
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cache
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.input.cache
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.output.cache
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorCoreGenerate.cache
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CopyComplete
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Cadastro.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Consulta.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.deps.json
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.json
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.dll
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cache
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.input.cache
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.output.cache
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorCoreGenerate.cache
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Cadastro.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Consulta.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CopyComplete
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.deps.json
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.json
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.dll
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cache
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.input.cache
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.output.cache
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorCoreGenerate.cache
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Cadastro.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Consulta.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CopyComplete
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Edicao.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastro.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.deps.json
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.json
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.dll
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cache
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.input.cache
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.output.cache
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorCoreGenerate.cache
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Cadastro.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Consulta.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Edicao.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastro.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Consulta.g.cshtml.cs
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CopyComplete
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\REPOSITORIO\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.deps.json
+C:\REPOSITORIO\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.json
+C:\REPOSITORIO\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\REPOSITORIO\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\REPOSITORIO\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\REPOSITORIO\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.dll
+C:\REPOSITORIO\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\REPOSITORIO\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\REPOSITORIO\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cache
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cs
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfo.cs
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.input.cache
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.output.cache
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorCoreGenerate.cache
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Cadastro.g.cshtml.cs
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Consulta.g.cshtml.cs
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Estoque\Edicao.g.cshtml.cs
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastro.g.cshtml.cs
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Consulta.g.cshtml.cs
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cs
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CopyComplete
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\REPOSITORIO\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.pdb

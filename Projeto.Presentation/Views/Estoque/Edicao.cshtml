@@ -1,0 +1,62 @@
+﻿@model Projeto.Presentation.Models.EdicaoEstoqueModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Edicao Estoque</title>
+        <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+        <link href="~/lib/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet" />
+    </head>
+<body>
+    <div class="container">
+
+        <h2>Atualizar Estoque</h2>
+        <a href="/EStoque/Consulta">Voltar</a> para a consulta
+        <hr />
+
+        @using (Html.BeginForm())
+        {
+            <div class="row">
+                <div class="col-md-4">
+                    <!--campo oculto-->
+                    @Html.HiddenFor(model => model.IdEstoque)
+
+                    <label>Nome do Estoque:</label>
+                    @Html.TextBoxFor(Model => Model.Nome,
+                       new { @class = "form-control", @placeholder = "Digite Aqui" })
+                    <span class="text-danger">
+                        @Html.ValidationMessageFor(model => model.Nome)
+                    </span>
+
+                    <br />
+
+                    <label>Descrição:</label>
+                    @Html.TextAreaFor(model => model.Descricao,
+                    new { @class= "form-control", @placeholder = "Digite Aqui"})
+                    <span class="text-danger">
+                        @Html.ValidationMessageFor(model => model.Descricao)
+                    </span>
+
+                    <br />
+
+                    <input type="submit" value="Atualizar Estoque" class="btn btn-primary" />
+                    <br />
+                    <br />
+
+                    <strong>@TempData["Mensagem"]</strong>
+
+                </div>                
+
+            </div>
+         }
+
+
+    </div>
+</body>
+</html>

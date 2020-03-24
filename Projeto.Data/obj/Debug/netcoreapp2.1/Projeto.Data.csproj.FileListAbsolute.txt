@@ -1,0 +1,45 @@
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.deps.json
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csprojAssemblyReference.cache
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfoInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Francisco Luiz\Desktop\Aula_09_20200203\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.deps.json
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csprojAssemblyReference.cache
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfoInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Francisco Luiz\Desktop\Aula_10_20200205\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.deps.json
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csprojAssemblyReference.cache
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfoInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Francisco Luiz\Desktop\Aula_11_20200207\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.deps.json
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csprojAssemblyReference.cache
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfoInputs.cache
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfo.cs
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\Francisco Luiz\Desktop\Aula_12_20200210\Aula08\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\REPOSITORIO\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.deps.json
+C:\REPOSITORIO\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\REPOSITORIO\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\REPOSITORIO\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csprojAssemblyReference.cache
+C:\REPOSITORIO\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\REPOSITORIO\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfoInputs.cache
+C:\REPOSITORIO\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfo.cs
+C:\REPOSITORIO\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\REPOSITORIO\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.pdb
